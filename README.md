@@ -5,11 +5,12 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Implementation Details](#implementation-details)
-8. [Error Handling](#error-handling)
+4. [Screenshots](#screenshots)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Project Structure](#project-structure)
+8. [Implementation Details](#implementation-details)
+9. [Error Handling](#error-handling)
 
 ## Introduction
 
